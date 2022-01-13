@@ -1,3 +1,4 @@
+## Definitons
 In this lab work, your task is to build a simple parking assistant. You are required to
 create a circuit with an Arduino board, 2x16 LCD Display, Buzzer and Ultrasonic
 Sensor. When you correctly assembled the circuit, you will need to write a source code
